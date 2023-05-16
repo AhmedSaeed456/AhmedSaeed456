@@ -6,7 +6,7 @@
 </h3>
 
 - 👋 Hi, I’m @Ahmed_Saeed
-- 👀 I’m interested in programming specially cross platforms (flutter/react native) and web front-end using different frameworks
+- 👀 I’m interested in programming specially cross platforms (flutter/react native) and web full-stack using different frameworks
 - 🧠 I love problem solving with +300 problems in codeforces : https://codeforces.com/profile/mrSAYTAMA
 - 🌱 I’m currently learning mobile cross platform development in ITI
 - 📫 How to reach me ... my linkedIn : https://www.linkedin.com/in/ahmed-saeed-kishk-41735821b
@@ -42,6 +42,6 @@ You can click the Preview link to take a look at your changes.
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Xamarin](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=xamarin)&nbsp;
 ![React Native](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=ReactNative)&nbsp;
-![Flutter](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=flutter)&nbsp;
+![flutter](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=flutter)&nbsp;
 
 
