@@ -40,8 +40,9 @@ You can click the Preview link to take a look at your changes.
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Xamarin](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=xamarin)&nbsp;
-![React Native](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=ReactNative)&nbsp;
-![flutter](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=flutter)&nbsp;
+![React Native](https://img.shields.io/badge/-React-05122A?style=flat&logo=ReactNative)&nbsp;
+![flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
+![Xamarin](https://img.shields.io/badge/-Xamarin-05122A?style=flat&logo=xamarin)&nbsp;
+
 
 
