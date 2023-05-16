@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/ahmed-saeed-kishk" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ahmed-saeed-kishk" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Saeed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -41,14 +41,7 @@ You can click the Preview link to take a look at your changes.
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Xamarin](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=xamarin)&nbsp;
-![React Native](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=react-native)&nbsp;
+![React Native](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=ReactNative)&nbsp;
 ![Flutter](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=flutter)&nbsp;
 
 
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
